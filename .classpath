@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/com.springsource.org.apache.commons.lang-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/spring-beans-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/spring-context-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/spring-web-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/spring-webmvc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/vim25.jar"/>
+	<classpathentry kind="lib" path="E:/html-client-sdk/libs/vsphere-client-lib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
